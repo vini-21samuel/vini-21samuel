@@ -38,3 +38,5 @@
  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
                                                   
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false"/>
