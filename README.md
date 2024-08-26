@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=362AC0&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Vinicius+Samuel;Actually+I'm+studying;Systems+Analysis+and+Development;at+Federal+Institute;I+from+Brazil;From+now,+you+are+entering;in+zone+of+imminent+danger;Can+I+say+to+you;Welcome+or+come+back+often?:%29)](https://git.io/typing-svg)
 
-<div>
+<div align="center" valign="top"><br>
  <a href="https://github.com/Vini-21samuel">
  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=vini-21samuel&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-21samuel&layout=compact&langs_count=7&theme=blue_navy"/>
