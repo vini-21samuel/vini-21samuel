@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&reversal=false"/>
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=362AC0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Vinicius+Samuel;Atualmente+estou+estudando;Análise+e+Desenvolvimento+de+Sistemas;no+Instituto+Federal;Sou+do+Ceará;A+partir+de+agora,+você+está+entrando;na+zona+de+perigo+iminente;Posso+dizer+para+você;Bem-vindo+ou+volte+sempre?:%29;Ah,+eu+adoro+café,+futebol+e+códigos!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=362AC0&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Vinicius+Samuel;Actually+I'm+studying;Systems+Analysis+and+Development;at+Federal+Institute;I+from+Brazil;From+now,+you+are+entering;in+zone+of+imminent+danger;Can+I+say+to+you;Welcome+or+come+back+often?:%29)](https://git.io/typing-svg)
 
 <div align="center" valign="top"><br>
  <a href="https://github.com/Vini-21samuel">
